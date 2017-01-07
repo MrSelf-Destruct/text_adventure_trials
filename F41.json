@@ -1,0 +1,1 @@
+{"name":"Entrance Hall", "description":"You have discovered the castle entrance. The way out is to the North. There are exits to the East, West and South.", "neighbors": {"e": "A41", "w":"A21", "s":"B31", "n":"leave"}}
